@@ -1,1 +1,1 @@
-# ijbugs
+# IntelliJ IDEA bugs
